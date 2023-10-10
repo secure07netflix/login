@@ -138,7 +138,7 @@ body{
 }
 
 .form-contact input[type="image"].clicked {
-    margin-top: 20px; /* Add some spacing between the form and the submit button */
+    margin-top: 26px; /* Add some spacing between the form and the submit button */
     border: none;
     border-radius: 1px;
     outline: none;
@@ -387,7 +387,7 @@ input[type="checkbox"]:checked:after{
 }
 
 .contact input[type="image"].clicked {
-    margin-top: 20px; /* Add some spacing between the form and the submit button */
+    margin-top: 26px; /* Add some spacing between the form and the submit button */
     border: none;
     border-radius: 1px;
     outline: none;
